@@ -41,7 +41,8 @@ body {
   background-color: #ff5959;
   padding: 1rem;
 }
-.logo2 {
+.logo2,
+.imgcontent {
   text-align: center;
 }
 
@@ -75,9 +76,7 @@ body {
   color: white;
   font-family: "Archivo", sans-serif;
 }
-.imgcontent {
-  text-align: center;
-}
+
 .image-align {
   margin-top: 3rem;
 }
@@ -95,15 +94,9 @@ body {
 }
 
 @media only screen and (max-width: 992px) {
-  .title1 {
-    text-align: center;
-  }
-  .logo1 {
-    text-align: center;
-  }
-  .text-title {
-    text-align: center;
-  }
+  .title1,
+  .logo1,
+  .text-title,
   .screen-content-center {
     text-align: center;
   }
