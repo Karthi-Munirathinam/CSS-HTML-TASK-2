@@ -115,6 +115,6 @@ body {
 }
 @media only screen and (max-width: 752px) {
   .content-size {
-    font-size: 2.5rem;
+    font-size: 2rem;
   }
 }
